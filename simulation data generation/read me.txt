@@ -1,0 +1,4 @@
+detection_gen.m: used to generate the protection area and training area for the elliptical detection, and the file 'detect_area*.mat' is generated
+
+simulation_detect.m: used to generate the simulation data, and the results are stored in 'simulation_detect_result.mat'
+
